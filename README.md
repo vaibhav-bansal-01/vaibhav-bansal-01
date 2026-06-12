@@ -45,4 +45,4 @@
 
 ## 🤝 Connect with me
 
-LinkedIn: https://www.linkedin.com/in/vaibhav-bansal-078502289/
+[LinkedIn]((https://www.linkedin.com/in/vaibhav-bansal-078502289/))
