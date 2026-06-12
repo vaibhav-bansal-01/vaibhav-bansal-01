@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Vaibhav 👋
 
-<!--
-**vaibhav-bansal-01/vaibhav-bansal-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Undergraduate @ IIT (BHU) Varanasi  
+💻 Full Stack Developer | Problem Solver  
+🎨 Building products with Code + Creativity
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning Full Stack Development (MERN Stack)
+- 💡 Solving problems using C++ and Data Structures & Algorithms
+- 🛠 Interested in building scalable and user-focused applications
+- 🎨 Exploring the intersection of development and design
+
+
+## 🛠 Tech Stack
+
+**Languages**  
+C++ | JavaScript
+
+**Frontend**  
+React.js | HTML | CSS
+
+**Backend**  
+Node.js | Express.js
+
+**Database**  
+MongoDB
+
+**Tools**  
+Git | GitHub | VS Code
+
+
+## 📌 Current Focus
+
+- Building full-stack web projects
+- Improving problem-solving skills
+- Exploring open-source development
+
+
+## 🤝 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/vaibhav-bansal-078502289/
