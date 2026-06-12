@@ -7,28 +7,35 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Full Stack Development (MERN Stack)
-- 💡 Solving problems using C++ and Data Structures & Algorithms
+- 🌱 Building Full Stack Development (MERN Stack)
+- 💡 Solving problems with C++ and Data Structures & Algorithms
 - 🛠 Interested in building scalable and user-focused applications
 - 🎨 Exploring the intersection of development and design
 
 
 ## 🛠 Tech Stack
 
+### 🛠 Tech Stack
+
 **Languages**  
-C++ | JavaScript
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 
 **Frontend**  
-React.js | HTML | CSS
+![React](https://img.shields.io/badge/React-black?logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3)
 
 **Backend**  
-Node.js | Express.js
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 
 **Database**  
-MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 
 **Tools**  
-Git | GitHub | VS Code
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 
 ## 📌 Current Focus
