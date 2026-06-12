@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Building Full Stack Development (MERN Stack)
+- 🌱 Building Full Stack Development using MERN Stack
 - 💡 Solving problems with C++ and Data Structures & Algorithms
 - 🛠 Interested in building scalable and user-focused applications
 - 🎨 Exploring the intersection of development and design
