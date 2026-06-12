@@ -15,8 +15,6 @@
 
 ## 🛠 Tech Stack
 
-### 🛠 Tech Stack
-
 **Languages**  
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
